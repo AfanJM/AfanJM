@@ -36,7 +36,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AfanJM&theme=gruvbox&hide_border=verdadero&border_radius=4.8&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-![AfanJM GitHub stats](https://github-readme-stats.vercel.app/api?username=AfanJM &show_icons=true&theme=gruvbox)
+![AfanJM GitHub stats](https://github-readme-stats.vercel.app/api?username=AfanJM&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfanJM M&layout=compact)](https://github.com/AfanJM /github-readme-stats)
 
