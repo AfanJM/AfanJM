@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="280">
-    <h1 align="center">Hi there 👋, im Juan</h1>
+    <h1 align="center">Hi there <img src="https://media.giphy.com/media/cNksZBXNRFX2H8wxBN/giphy.gif" width="280"> 👋, im Juan</h1>
     <h3 align="center">my name is Juan Sebastian Afanador Mora, I am currently studying systems engineering, 
                        I am passionate about programming, I excel in the backend part.
     </h3>
