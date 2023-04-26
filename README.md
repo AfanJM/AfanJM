@@ -19,7 +19,7 @@
 
 
 <div align="left">
-    <h3>🔨 Lenguages and Tools: </h3>
+    <h3>🔨 Lenguajes y herramientas: </h3>
      <div>
         <img  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-original" width="50" height="50">
         <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="50" height="50">
