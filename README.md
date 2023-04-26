@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="280">
-    <h2 align="center">Hi there 👋, im Juan</h2>
+    <h2 align="center">Hola que tal 👋, soy Juan</h2>
     <h3 align="center">mi nombre es Juan Sebastian Afanador Mora, actualmente estudio ingeniería en sistemas, 
                      me apasiona la programación, me destaco en la parte de backend.
     </h3>
