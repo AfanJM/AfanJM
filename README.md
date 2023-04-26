@@ -8,12 +8,12 @@
  
  
 ---
-### 😄 About me:
-- 🌱 I’m currently learning **Node JS and express**
+### 😄 Sobre mí:
+- 🌱 Actualmente estoy aprendiendo **Node JS y express**
 
-- 💬 Ask me about **javaScript, java, NodeJS, Sql, Express**
+- 💬 Pregúntame sobre **javaScript, java, NodeJS, Sql, Express**
 
-- 📫 How to reach me: **afanador1106@gmail.com**
+- 📫 Ponente en contacto conmigo: **afanador1106@gmail.com**
 ---
 
 
