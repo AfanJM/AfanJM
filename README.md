@@ -9,7 +9,7 @@
  
 ---
 ### 😄 Sobre mí:
-- 🌱 Actualmente estoy aprendiendo **Node JS y express**
+- 🌱 Actualmente estoy aprendiendo **Node JS, Express, NestJS, TypeScript**
 
 - 💬 Pregúntame sobre **javaScript, java, NodeJS, Sql, Express**
 
