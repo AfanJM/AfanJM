@@ -1,4 +1,4 @@
-Hola ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)Mi nombre es Juan se
+Hola 👋 Mi nombre es Juan se
 ===============================================================================================================================
 
 Desarrollador backend | Node js
