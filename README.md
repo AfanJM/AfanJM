@@ -6,9 +6,9 @@ Desarrollador backend | Node js
 
 Actualmente soy estudiante de ingenieria de sistemas, he apasiona programar y resolver problemas, mi fuerte es el backend
 
-* ✉️  You can contact me at [afanador1106@gmail.com](mailto:afanador1106@gmail.com)
-* 🧠  I'm learning Nest JS
-* 🤝  I'm open to collaborating on Proyectos intergradores
+* ✉️  Contactate conmigo [afanador1106@gmail.com](mailto:afanador1106@gmail.com)
+* 🧠  Estoy aprendiendo __Nest JS__
+* 🤝  Estoy abierto en colaborar en  __Proyectos intergradores__
 
 <a href="https://www.github.com/AfanJM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
