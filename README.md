@@ -4,7 +4,7 @@ Hola 👋 Mi nombre es Juan se
 Desarrollador backend | Node js
 -------------------------------
 
-Actualmente soy estudiante de ingenieria de sistemas, he apasiona programar y resolver problemas, mi fuerte es el backend
+Actualmente soy estudiante de ingenieria de sistemas, me apasiona programar y resolver problemas, mi fuerte es el backend aunque algunos conocimiento en la parte del fronted
 
 * ✉️  Contactate conmigo [afanador1106@gmail.com](mailto:afanador1106@gmail.com)
 * 🧠  Estoy aprendiendo __Nest JS__
