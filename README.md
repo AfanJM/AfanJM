@@ -1,47 +1,41 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="280">
-    <h2 align="center">Hola que tal 👋, soy Juan</h2>
-    <h3 align="center">mi nombre es Juan Sebastian Afanador Mora, actualmente estudio ingeniería en sistemas, 
-                     me apasiona la programación, me destaco en la parte de backend.
-    </h3>
- </div>
- 
- 
----
-### 😄 Sobre mí:
-- 🌱 Actualmente estoy aprendiendo **Node JS, Express, NestJS, TypeScript**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan se
+===============================================================================================================================
 
-- 💬 Pregúntame sobre **javaScript, java, NodeJS, Sql, Express**
+Desarrollador backend | Node js
+-------------------------------
 
-- 📫 Ponente en contacto conmigo: **afanador1106@gmail.com**
----
+Actualmente soy estudiante de ingenieria de sistemas, he apasiona programar y resolver problemas, mi fuerte es el backend
 
+* ✉️  You can contact me at [afanador1106@gmail.com](mailto:afanador1106@gmail.com)
+* 🧠  I'm learning Nest JS
+* 🤝  I'm open to collaborating on Proyectos intergradores
 
+<a href="https://www.github.com/AfanJM" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
+### Skills
 
-<div align="left">
-    <h3>🔨 Lenguajes y herramientas: </h3>
-     <div>
-        <img  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-original" width="50" height="50">
-        <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="50" height="50">
-        <img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50">
-        <img  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express-original-wordmark" width="50" height="50">
-        <img  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap-original-wordmark" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="50">
-     </div>
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
+### Socials
 
----
-### 📊 My stats:
+<p align="left"> <a href="https://www.github.com/AfanJM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/juansebastian.xx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juansebastianafanador" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AfanJM&theme=gruvbox&hide_border=verdadero&border_radius=4.8&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<b>My GitHub Stats</b>
 
-![AfanJM GitHub stats](https://github-readme-stats.vercel.app/api?username=AfanJM&show_icons=true&theme=gruvbox)
+<a href="http://www.github.com/AfanJM"><img src="https://github-readme-stats.vercel.app/api?username=AfanJM&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="AfanJM's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfanJM&layout=compact)](https://github.com/AfanJM/github-readme-stats)
+<a href="http://www.github.com/AfanJM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AfanJM&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-
-
-
+<a href="https://github.com/AfanJM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfanJM&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
