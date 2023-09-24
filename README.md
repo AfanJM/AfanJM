@@ -1,7 +1,7 @@
 Hola 👋 Mi nombre es Juan se
 ===============================================================================================================================
 
-Desarrollador backend | Node js
+Desarrollador backend
 -------------------------------
 
 Actualmente soy estudiante de ingenieria de sistemas, me apasiona programar y resolver problemas, mi fuerte es el backend aunque algunos conocimiento en la parte del fronted
