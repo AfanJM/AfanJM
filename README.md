@@ -7,7 +7,7 @@ Desarrollador backend | Node js
 Actualmente soy estudiante de ingenieria de sistemas, me apasiona programar y resolver problemas, mi fuerte es el backend aunque algunos conocimiento en la parte del fronted
 
 * ✉️  Contactate conmigo [afanador1106@gmail.com](mailto:afanador1106@gmail.com)
-* 🧠  Estoy aprendiendo __Nest JS__
+* 🧠  Estoy aprendiendo __Node js,TS,ORM'S__
 * 🤝  Estoy abierto en colaborar en  __Proyectos intergradores__
 
 <a href="https://www.github.com/AfanJM" target="_blank" rel="noreferrer"><img
