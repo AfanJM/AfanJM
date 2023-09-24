@@ -12,7 +12,7 @@ Actualmente soy estudiante de ingenieria de sistemas, me apasiona programar y re
 
 <a href="https://www.github.com/AfanJM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
-### Skills
+### Lenguajes y herramientas
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
