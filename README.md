@@ -19,11 +19,12 @@ src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-ba
 
 ## prueba
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afanjm&show_icons=true&locale=en&layout=compact" alt="afanjm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afanjm&show_icons=true&locale=en" alt="afanjm" /></p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afanjm&" alt="afanjm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afanjm&show_icons=true&locale=en&layout=compact" alt="afanjm" /></p><p>
+
+&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=afanjm&show_icons=true&locale=en" alt="afanjm" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afanjm&" alt="afanjm" /></p>
 
 ### Redes
 
