@@ -12,7 +12,7 @@ Actualmente soy estudiante de ingenieria de sistemas, me apasiona programar y re
 
 <a href="https://www.github.com/AfanJM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+
 
 ### Lenguajes y herramientas 🧑‍💻
 
