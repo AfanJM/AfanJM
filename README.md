@@ -11,7 +11,8 @@ Actualmente soy estudiante de ingenieria de sistemas, me apasiona programar y re
 * 🤝  Estoy abierto en colaborar en  __Proyectos intergradores__
 
 <a href="https://www.github.com/AfanJM" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a"
+ align="right"> <img src="https://komarev.com/ghpvc/?username=AfanJM&label=Profile%20views&color=ef0515&style=flat" alt="AfanJM"/></a>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AfanJM&label=Profile%20views&color=ef0515&style=flat" alt="AfanJM" /> </p>
 
