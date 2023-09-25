@@ -23,8 +23,6 @@ src="https://img.shields.io/github/followers/AfanJM?logo=github&style=for-the-ba
 
 ### Mis estadisticas 📊
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/AfanJM"><img src="https://github-readme-stats.vercel.app/api?username=AfanJM&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="AfanJM's GitHub stats" /></a>
 
 <a href="http://www.github.com/AfanJM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AfanJM&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
