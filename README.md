@@ -7,7 +7,7 @@ Desarrollador Backend
 Actualmente soy estudiante de ingenieria de sistemas, me apasiona programar y resolver problemas, mi fuerte es el backend aunque algunos conocimiento en la parte del fronted
 
 * ✉️  Contactate conmigo [afanador1106@gmail.com](mailto:afanador1106@gmail.com)
-* 🧠  Estoy aprendiendo __Node js,TS,ORM'S__
+* 🧠  Estoy aprendiendo __C#,.Net,EntityFramework__
 * 🤝  Estoy abierto en colaborar en  __Proyectos intergradores__
 
 <div style="display: flex; justify-content: flex-start;">
